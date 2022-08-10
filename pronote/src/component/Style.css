@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    background-color:rgb(19, 165, 223);
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.input,.output{
+    padding-left: 10px;
+}
+.output-text{
+    background-color: gray;
+}
+.input-text,.output-text{
+    width:400px;
+    height: 300px;
+    color: white;
+}
